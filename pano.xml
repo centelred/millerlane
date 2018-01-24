@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.3" start="node20" apprev="15990">
+  <panorama hideabout="1" id="node20">
+    <input levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.2" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="0" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="180">
+      <start pan="174.739" fov="47.6863" tilt="-3.87768" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="Front Yard" author="" datetime="1/21/2018 2:30 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Front Yard&lt;/i>" latitude="28.029900" copyright="" info="" longitude="-81.934886" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="174.87" description="" target="" tilt="-3.78" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Foyer&lt;/i>" url="{node18}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="148.94" description="&lt;br>&lt;i style=&quot;font-family: Georgia, serif; font-size:1.0em;&quot;>Location Matters! Perfect home for a first time buyer or growing family, ONE BLOCK from Lake Hollingsworth, and close to shopping essentials. This 3 bedroom, 2 1/2 bath, split floor plan offers a living room/kitchen combo with a breakfast bar that overlooks a large Florida room.&lt;/i>&lt;br>&lt;br> &lt;a href=&quot;https://www.zillow.com/homes/for_sale/47371386_zpid/28.081144,-81.861105,27.979319,-82.008734_rect/12_zm/1_fr/&quot; style=&quot;font-family: Georgia, serif; font-size:1.0em; color:black;&quot;> More Info Here&lt;/a>" target="_blank" tilt="-3.33" title="&lt;i style=&quot;font-size:1.5em; font-family: Georgia, serif;&quot;>1426 Miller Ln. &lt;/i>" url="https://www.zillow.com/homes/for_sale/47371386_zpid/28.081144,-81.861105,27.979319,-82.008734_rect/12_zm/1_fr/" id="Point01" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.1" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.4" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="337.5">
+      <start pan="-29.7309" fov="47.6863" tilt="0.864209" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="Foyer" author="" datetime="1/21/2018 2:28 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Foyer&lt;/i>" latitude="28.030125" copyright="" info="" longitude="-81.934878" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="166.13" description="" target="" tilt="-0.31" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Front Yard&lt;/i>" url="{node20}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-29.88" description="" target="" tilt="0.74" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node1}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="67.64" description="" target="" tilt="-1.81" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Fireplace&lt;/i>" url="{node15}" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="2.90264" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-2.70681" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="157.5">
+      <start pan="152.502" fov="47.6863" tilt="-9.20009" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:10 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" latitude="" copyright="" info="" longitude="" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="152.48" description="" target="" tilt="-9.16" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node2}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-136.07" description="" target="" tilt="-3.42" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Family Room&lt;/i>" url="{node14}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-16.9" description="" target="" tilt="-3.21" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Foyer&lt;/i>" url="{node18}" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.3" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.4" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="202.5">
+      <start pan="177.732" fov="47.6863" tilt="-6.73263" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:12 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" latitude="" copyright="" info="" longitude="" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="177.76" description="" target="" tilt="-6.73" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" url="{node3}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-14.68" description="" target="" tilt="-8.5" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node1}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="99.98" description="" target="" tilt="-6.28" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 2&lt;/i>" url="{node10}" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.4" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="0.3" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="157.5">
+      <start pan="146.368" fov="47.6863" tilt="-9.01247" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:13 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" latitude="28.030203" copyright="" info="" longitude="-81.934853" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="146.38" description="" target="" tilt="-9.07" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" url="{node4}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-11.42" description="" target="" tilt="-4.8" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node2}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.2" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.1" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="202.5">
+      <start pan="174.354" fov="47.6863" tilt="-7.34115" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:13 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" latitude="28.030033" copyright="" info="" longitude="-81.934917" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="174.52" description="" target="" tilt="-7.43" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Living Area&lt;/i>" url="{node5}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-7.2" description="" target="" tilt="-4.86" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" url="{node3}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0.9" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.3" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="202.5">
+      <start pan="126.293" fov="47.6863" tilt="-5.37988" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:14 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Living Area&lt;/i>" latitude="28.030025" copyright="" info="" longitude="-81.934975" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="57.88" description="" target="" tilt="-3.98" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 1&lt;/i>" url="{node6}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-74.02" description="" target="" tilt="-7.23" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" url="{node12}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="4.28" description="" target="" tilt="-3.12" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" url="{node4}" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.1" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.7" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="337.5">
+      <start pan="-139.093" fov="47.6863" tilt="-7.95204" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:15 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 1&lt;/i>" latitude="28.030025" copyright="" info="" longitude="-81.934975" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-5.91" description="" target="" tilt="0.36" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Living Area&lt;/i>" url="{node5}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-138.83" description="" target="" tilt="-7.94" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 2&lt;/i>" url="{node7}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="118.13" description="" target="" tilt="-7.02" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Kitchen&lt;/i>" url="{node4}" id="Point03" skinid="ht_node"/>
+      <hotspot pan="128.87" description="" target="" tilt="-6.73" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node2}" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0.9" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.8" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start pan="-64.0784" fov="47.6863" tilt="-5.23534" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:16 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 2&lt;/i>" latitude="28.030114" copyright="" info="" longitude="-81.934906" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="131.28" description="" target="" tilt="-8.06" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 2&lt;/i>" url="{node10}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="172.39" description="" target="" tilt="-10.19" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bathroom 1&lt;/i>" url="{node9}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-64.09" description="" target="" tilt="-5.19" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 1&lt;/i>" url="{node8}" id="Point03" skinid="ht_node"/>
+      <hotspot pan="24.97" description="" target="" tilt="-12.4" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 1&lt;/i>" url="{node6}" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.5" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="225">
+      <start pan="160.993" fov="70" tilt="-4.84044" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:17 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 1&lt;/i>" latitude="28.029997" copyright="" info="" longitude="-81.934719" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="19.11" description="" target="" tilt="-3.22" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 2&lt;/i>" url="{node7}" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.1" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.4" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="112.5">
+      <start pan="-71.1752" fov="70" tilt="-0.981733" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:18 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bathroom 1&lt;/i>" latitude="28.029958" copyright="" info="" longitude="-81.934631" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-158.55" description="" target="" tilt="-7.55" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Hallway 2&lt;/i>" url="{node7}" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.4" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.5" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="45">
+      <start pan="-56.0968" fov="70" tilt="-4.53333" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:19 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 2&lt;/i>" latitude="28.030097" copyright="" info="" longitude="-81.934933" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="98.74" description="" target="" tilt="-2.85" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Bedroom 1&lt;/i>" url="{node8}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="158.43" description="" target="" tilt="-5.56" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node2}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-1.66209" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-1.27163" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="270">
+      <start pan="71.0305" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:20 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" latitude="28.030172" copyright="" info="" longitude="-81.934981" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="163.53" description="" target="" tilt="-8.49" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Living Area&lt;/i>" url="{node5}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="68.93" description="" target="" tilt="-5.74" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" url="{node13}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="2.76435" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-5.2829" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="135">
+      <start pan="-58.9098" fov="47.6863" tilt="4.90172" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:21 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" latitude="28.030061" copyright="" info="" longitude="-81.934867" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="129.84" description="" target="" tilt="-8.46" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" url="{node12}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-58.79" description="" target="" tilt="4.94" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Family Room&lt;/i>" url="{node14}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-171.89" description="" target="" tilt="-6.01" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Backyard&lt;/i>" url="{node21}" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.4" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="0.1" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="337.5">
+      <start pan="170.812" fov="70" tilt="-2.87565" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:23 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Family Room&lt;/i>" latitude="28.030081" copyright="" info="" longitude="-81.934894" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-11.38" description="" target="" tilt="-8.19" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" url="{node13}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="175.83" description="" target="" tilt="-7.29" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Fireplace&lt;/i>" url="{node15}" id="Point02" skinid="ht_node"/>
+      <hotspot pan="129.63" description="" target="" tilt="-8.83" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Master Suite&lt;/i>" url="{node16}" id="Point03" skinid="ht_node"/>
+      <hotspot pan="-137.43" description="" target="" tilt="-8.21" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Dining Area&lt;/i>" url="{node2}" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-1.25073" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="0.545961" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-161.715" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="Fireplace" author="" datetime="1/21/2018 2:24 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Fireplace&lt;/i>" latitude="28.030036" copyright="" info="" longitude="-81.935003" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="17.46" description="" target="" tilt="-11.18" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Family Room&lt;/i>" url="{node14}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-84.53" description="" target="" tilt="-4.72" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Foyer&lt;/i>" url="{node18}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-3.08785" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.771097" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="292.5">
+      <start pan="28.269" fov="70" tilt="-13.9156" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:26 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Master Suite&lt;/i>" latitude="28.030036" copyright="" info="" longitude="-81.935003" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-90.23" description="" target="" tilt="-1.32" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Family Room&lt;/i>" url="{node14}" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-69.56" description="" target="" tilt="-3.31" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Master Bathroom&lt;/i>" url="{node17}" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.4" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-0.2" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="22.5">
+      <start pan="-20.0999" fov="70" tilt="7.07809" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:27 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Master Bathroom&lt;/i>" latitude="28.029994" copyright="" info="" longitude="-81.935008" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="-109.53" description="" target="" tilt="-4.13" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Fireplace&lt;/i>" url="{node15}" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0.6" width="1344" height="1344" overlap="1" leveltilesize="510" levelingroll="-3.4" levelbiashidpi="0.400">
+      <level width="1344" predecode="0" height="1344" preload="0"/>
+      <level width="672" predecode="0" height="672" preload="0"/>
+      <level width="336" predecode="1" height="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="22.5">
+      <start pan="-104.255" fov="70" tilt="6.00113" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" scaletofit="1" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata description="" author="" datetime="1/21/2018 2:32 PM" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Backyard&lt;/i>" latitude="28.030172" copyright="" info="" longitude="-81.934803" source="" tags="Spherical" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label wordwrap="1" bordercolor="0x1e4674" background="1" backgroundcolor="0x00007f" enabled="1" borderradius="1" width="180" textalpha="1" height="20" borderalpha="1" border="1" backgroundalpha="1" textcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.2509803921568627" handcursor="1"/>
+      <hotspot pan="114.77" description="" target="" tilt="-4.3" title="&lt;i style=&quot;font-family: Georgia, serif; font-size:1.5em;&quot;>Sunroom&lt;/i>" url="{node13}" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomfov="20" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="0" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="1" contextfullscreen="1" rubberband="0" lockedmouse="0" sensitivity="8" hideabout="1" lockedkeyboardzoom="1" invertcontrol="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" contextprojections="0" lockedkeyboard="0"/>
+  </panorama>
+</tour>
